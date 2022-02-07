@@ -81,3 +81,5 @@ for name, url in zip(name, urls):
   #file = open(f"{name}.csv", "w")
   #writer = csv.writer(file)
   #writer.writerow(jobs)
+
+## 결과물 보고 다시 ##
