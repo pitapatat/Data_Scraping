@@ -8,7 +8,7 @@
       TO DO : 코드 정리, 함수 단위로 좀 더 명확하게  
 
 ### 1-2. 직군별 채용공고 스크래핑
-- 채용공고 사이트 선정 
+- TO DO..
 
       TRY IT : 직군별 자격요건 업무 내용, 자격요건, 보유기술 등 정리
      
@@ -16,3 +16,4 @@
 ----------
 ### 2. making dataframe using API 
 ### 3. making web application with flask
+
