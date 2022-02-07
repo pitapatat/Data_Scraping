@@ -1,4 +1,4 @@
-## DE_BASIC_
+## DE_BASIC
 
 ## 1. web-scraping
 ### 1-1. 브랜드별 채용공고 스크래핑 
