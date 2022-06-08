@@ -16,3 +16,6 @@
 - 상품 기본정보 중 30개 상품(url)에 대한 리뷰 추출 > csv 파일로 저장
 ```
 <img width = '600' height = '550' src ='https://user-images.githubusercontent.com/83687942/172512786-b4104969-11a5-42fb-a5cf-e74f12bee499.png'>
+
+
+* (try) ++ 리뷰 분석 
