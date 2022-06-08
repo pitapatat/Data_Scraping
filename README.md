@@ -1,5 +1,5 @@
 
-## 데이터 스크래핑
+## 데이터 스크래핑 연습
 
 #### :bookmark:[알바천국 채용공고 스크래핑](https://github.com/pitapatat/Data_Scraping/tree/main/alba)
 
